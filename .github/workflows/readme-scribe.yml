@@ -1,0 +1,30 @@
+name: Update README
+on:
+  schedule:
+    - cron: "0 0 * * *" # Set this to run daily at midnight (UTC)
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: "14"
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run the script
+        run: node scripts/update_readme.js
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "yayamohamed883@gmail.com"
+          git config --local user.name "Yaya12085"
+          git commit -am "Auto-update README [skip ci]"
+          git push
