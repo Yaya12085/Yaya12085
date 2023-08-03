@@ -1,4 +1,10 @@
-const currentDate = new Date().toLocaleDateString("fr-FR");
+const currentDate = new Date().toLocaleString("en-US", {
+  day: "2-digit",
+  month: "2-digit",
+  year: "numeric",
+  hour: "2-digit",
+  minute: "2-digit"
+});
 const readmeContent = `### Hi there 👋
 
 
@@ -59,3 +65,12 @@ Yayadev
 const fs = require("fs");
 
 fs.writeFileSync("README.md", readmeContent);
+
+const { execSync } = require("child_process");
+
+try {
+  execSync("git add README.md");
+} catch (error) {
+  console.error("Error adding README.md to the staging area:", error.message);
+  process.exit(1);
+}
