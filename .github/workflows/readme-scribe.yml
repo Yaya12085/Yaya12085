@@ -9,10 +9,10 @@ jobs:
 
     steps:
       - name: Checkout code
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       - name: Setup Node.js
-        uses: actions/setup-node@v2
+        uses: actions/setup-node@v3
         with:
           node-version: "14"
 
@@ -26,6 +26,6 @@ jobs:
         run: |
           git config --local user.email "yayamohamed883@gmail.com"
           git config --local user.name "Yaya12085"
-          git add README.md package-lock.json
+          git add .
           git commit -m "Auto-update README [skip ci]"
           git push
