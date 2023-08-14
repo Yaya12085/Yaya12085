@@ -27,5 +27,5 @@ jobs:
           git config --local user.email "yayamohamed883@gmail.com"
           git config --local user.name "Yaya12085"
           git add .
-          git commit -m "Auto-update README [skip ci]"
+          git commit -m "update README [skip ci]"
           git push
