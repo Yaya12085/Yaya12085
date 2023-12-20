@@ -1,19 +1,4 @@
-const mood = [
-  "motivated",
-  "happy",
-  "grateful",
-  "excited",
-  "joyful",
-  "content",
-  "optimistic",
-];
-
-const getMoodByDay = () => {
-  const today = new Date().getDay();
-  return mood[today % mood.length];
-};
-
-const readmeContent = `Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yaya Mohamed
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yaya Mohamed
 ====================================================================================================================================
 
 Full Stack JS Developer
@@ -23,7 +8,7 @@ Full Stack JS Developer
 * 🖥️  See my portfolio at [yayamohamed.com](http://yayamohamed.com)
 * ✉️  You can contact me at [yayamohamed883@gmail.com](mailto:yayamohamed883@gmail.com)
 * 🚀  I'm currently working on [this app](http://play.google.com/store/apps/details?id=com.scdigital.vendrefacilement&hl=fr&gl=US)
-* ⚡  ⚡ Today's Mood: ${getMoodByDay()}
+* ⚡  ⚡ Today's Mood: excited
 
 ### Skills
 
@@ -51,17 +36,4 @@ Full Stack JS Developer
 
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/yayamohamed"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
 
-</ul>`;
-
-const fs = require("fs");
-
-fs.writeFileSync("README.md", readmeContent);
-
-const { execSync } = require("child_process");
-
-try {
-  execSync("git add README.md");
-} catch (error) {
-  console.error("Error adding README.md to the staging area:", error.message);
-  process.exit(1);
-}
+</ul>
