@@ -8,7 +8,7 @@ Full Stack JS Developer
 * 🖥️  See my portfolio at [yayamohamed.com](http://yayamohamed.com)
 * ✉️  You can contact me at [yayamohamed883@gmail.com](mailto:yayamohamed883@gmail.com)
 * 🚀  I'm currently working on [this app](http://play.google.com/store/apps/details?id=com.scdigital.vendrefacilement&hl=fr&gl=US)
-* ⚡  ⚡ Today's Mood: excited
+* ⚡  ⚡ Today's Mood: joyful
 
 ### Skills
 
