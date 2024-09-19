@@ -20,4 +20,4 @@ Innovative Full Stack JavaScript Developer
 | [Doraschool - Suivi scolaire](https://play.google.com/store/apps/details?id=com.doraschool&hl=fr&gl=US) | [Noukson Tech](https://nouksontects.com/) |
 | +10|+50 |
 
-* ⚡  Today's Mood: excited
+* ⚡  Today's Mood: joyful
