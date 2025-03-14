@@ -1,23 +1,28 @@
+# Yaya Mohamed
+## Innovative Full Stack JavaScript Developer
 
-Innovative Full Stack JavaScript Developer
------------------------
+![Profile Views](https://komarev.com/ghpvc/?username=yaya12085&color=brightgreen)
 
-* 🌍 I'm based in Ivory Coast(Côte d'Ivoire)
+> "Today's Mood: **content**" ⚡
 
-* 📄 See my portfolio at [yayamohamed.com](https://yayamohamed.com)
+### About Me
+* 🌍 Based in Ivory Coast (Côte d'Ivoire)
+* 💼 Full Stack Developer with expertise in JavaScript, React, and Node.js
+* 🚀 Passionate about building innovative web and mobile applications
 
-### You can:
-* ✉️  mail me: [yayamohamed883@gmail.com](mailto:yayamohamed883@gmail.com) / [contact@yayamohamed.com](mailto:contact@yayamohamed.com)
-* 🤳🏽 call or whatsapp me :  [+2250574801791](tel:+2250574801791) 
+### Connect With Me
+* 🌐 Portfolio: [yayamohamed.com](https://yayamohamed.com)
+* ✉️ Email: [yayamohamed883@gmail.com](mailto:yayamohamed883@gmail.com) / [contact@yayamohamed.com](mailto:contact@yayamohamed.com)
+* 📱 Phone/WhatsApp: [+225 0574801791](tel:+2250574801791)
+* 🔗 LinkedIn: [https://linkedin.com/in/yayadev](https://linkedin.com/in/yayadev)
 
-### Latest public projects
 
-| 📱 Mobile App |🌐 Web |
-|--|--|
-| [Top Prevention Santé](https://play.google.com/store/apps/details?id=com.toppreventionsante&hl=fr&gl=US) | [Money Fusion](https://moneyfusion.net) |
-| [Vendre Facilement](https://play.google.com/store/apps/details?id=com.scdigital.vendrefacilement2&hl=fr&gl=US) | [Evisioplus](https://evisioplus.com) |
-| [Cath Appli Pro](https://play.google.com/store/apps/details?id=com.scdigital.cathapplipro&hl=fr&gl=US) |  [Livre Facebook](https://livre.sc-digital.org) |
-| [Doraschool - Suivi scolaire](https://play.google.com/store/apps/details?id=com.doraschool&hl=fr&gl=US) | [Noukson Tech](https://nouksontects.com/) |
-| +10|+50 |
+### Featured Projects
 
-* ⚡  Today's Mood: content
+| 📱 Mobile Applications | 🌐 Web Applications |
+|------------------------|---------------------|
+| [Ziva Mobile](https://play.google.com/store/apps/details?id=net.zivaziva.app) | [Ziva Landing](https://www.zivacovoiturage.net/) |
+| [Top Prevention Santé](https://play.google.com/store/apps/details?id=com.toppreventionsante) | [Money Fusion](https://moneyfusion.net) |
+| [DriveUp Mobile](https://play.google.com/store/apps/details?id=com.driveup.mobile) | [DriveUp Web](https://driveuptech.com/) |
+| [Cath Appli Pro](https://play.google.com/store/apps/details?id=com.scdigital.cathapplipro) | [Livre Facebook](https://livre.sc-digital.org) |
+| [Doraschool](https://play.google.com/store/apps/details?id=com.doraschool) | [Noukson Tech](https://nouksontects.com/) |
