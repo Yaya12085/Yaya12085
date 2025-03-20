@@ -3,7 +3,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yaya12085&color=brightgreen)
 
-> "Today's Mood: **excited**" ⚡
+> "Today's Mood: **joyful**" ⚡
 
 ### About Me
 * 🌍 Based in Ivory Coast (Côte d'Ivoire)
