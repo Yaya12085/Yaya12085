@@ -34,10 +34,11 @@ const getMoodByDay = () => {
  */
 const generateReadmeContent = () => {
   const todaysMood = getMoodByDay();
-  return `# Yaya Mohamed
+  return `[![hero](./hero.png?raw=true)](https://yayamohamed.com)
+
 ## Innovative Full Stack JavaScript Developer
 
-![Profile Views](https://komarev.com/ghpvc/?username=yaya12085&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=yaya12085&color=brightgreen) [![committers.top badge](https://user-badge.committers.top/ivory_coast_public/Yaya12085.svg)](https://user-badge.committers.top/ivory_coast_public/Yaya12085)
 
 > "Today's Mood: **${todaysMood}**" ⚡
 
@@ -53,7 +54,7 @@ const generateReadmeContent = () => {
 * 🔗 LinkedIn: [https://linkedin.com/in/yayadev](https://linkedin.com/in/yayadev)
 
 
-### Featured Projects
+### Latest Featured Projects
 
 | 📱 Mobile Applications | 🌐 Web Applications |
 |------------------------|---------------------|
@@ -61,7 +62,8 @@ const generateReadmeContent = () => {
 | [Top Prevention Santé](https://play.google.com/store/apps/details?id=com.toppreventionsante) | [Money Fusion](https://moneyfusion.net) |
 | [DriveUp Mobile](https://play.google.com/store/apps/details?id=com.driveup.mobile) | [DriveUp Web](https://driveuptech.com/) |
 | [Cath Appli Pro](https://play.google.com/store/apps/details?id=com.scdigital.cathapplipro) | [Livre Facebook](https://livre.sc-digital.org) |
-| [Doraschool](https://play.google.com/store/apps/details?id=com.doraschool) | [Noukson Tech](https://nouksontects.com/) |
+| [Doraschool](https://play.google.com/store/apps/details?id=com.doraschool) | [Noukson Tech](https://https://www.noukson-tech.com/) |
+| +10 | +50 |
 `;
 };
 
