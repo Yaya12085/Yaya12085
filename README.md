@@ -1,7 +1,8 @@
-# Yaya Mohamed
+[![hero](./hero.png?raw=true)](https://yayamohamed.com)
+
 ## Innovative Full Stack JavaScript Developer
 
-![Profile Views](https://komarev.com/ghpvc/?username=yaya12085&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=yaya12085&color=brightgreen) [![committers.top badge](https://user-badge.committers.top/ivory_coast_public/Yaya12085.svg)](https://user-badge.committers.top/ivory_coast_public/Yaya12085)
 
 > "Today's Mood: **joyful**" ⚡
 
