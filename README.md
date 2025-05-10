@@ -4,7 +4,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yaya12085&color=brightgreen) [![committers.top badge](https://user-badge.committers.top/ivory_coast_public/Yaya12085.svg)](https://user-badge.committers.top/ivory_coast_public/Yaya12085)
 
-> "Today's Mood: **content**" ⚡
+> "Today's Mood: **optimistic**" ⚡
 
 ### About Me
 * 🌍 Based in Ivory Coast (Côte d'Ivoire)
