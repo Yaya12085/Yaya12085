@@ -52,18 +52,6 @@ const generateReadmeContent = () => {
 * ✉️ Email: [yayamohamed883@gmail.com](mailto:yayamohamed883@gmail.com) / [contact@yayamohamed.com](mailto:contact@yayamohamed.com)
 * 📱 Phone/WhatsApp: [+225 0574801791](tel:+2250574801791)
 * 🔗 LinkedIn: [https://linkedin.com/in/yayadev](https://linkedin.com/in/yayadev)
-
-
-### Latest Featured Projects
-
-| 📱 Mobile Applications | 🌐 Web Applications |
-|------------------------|---------------------|
-| [Ziva Mobile](https://play.google.com/store/apps/details?id=net.zivaziva.app) | [Ziva Landing](https://www.zivacovoiturage.net/) |
-| [Top Prevention Santé](https://play.google.com/store/apps/details?id=com.toppreventionsante) | [Money Fusion](https://moneyfusion.net) |
-| [DriveUp Mobile](https://play.google.com/store/apps/details?id=com.driveup.mobile) | [DriveUp Web](https://driveuptech.com/) |
-| [Cath Appli Pro](https://play.google.com/store/apps/details?id=com.scdigital.cathapplipro) | [Livre Facebook](https://livre.sc-digital.org) |
-| [Doraschool](https://play.google.com/store/apps/details?id=com.doraschool) | [Noukson Tech](https://https://www.noukson-tech.com/) |
-| +10 | +50 |
 `;
 };
 
