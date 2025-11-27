@@ -1,4 +1,3 @@
-[![hero](./hero.png?raw=true)](https://yayamohamed.com)
 
 ## TS/JS Developer
 
