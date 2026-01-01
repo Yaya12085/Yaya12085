@@ -42,7 +42,7 @@ const generateReadmeContent = () => {
 > "Today's Mood: **${todaysMood}**" ⚡
 
 * 🌐 [yayamohamed.com](https://yayamohamed.com)
-* ✉️ [yayamohamed883@gmail.com](mailto:yayamohamed883@gmail.com) / [contact@yayamohamed.com](mailto:contact@yayamohamed.com)
+* ✉️ [yayamohamed883@gmail.com](mailto:yayamohamed883@gmail.com)
 `;
 };
 
