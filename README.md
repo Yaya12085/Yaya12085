@@ -3,7 +3,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yaya12085&color=brightgreen)
 
-> "Today's Mood: **joyful**" ⚡
+> "Today's Mood: **content**" ⚡
 
 * 🌐 [yayamohamed.com](https://yayamohamed.com)
 * ✉️ [yayamohamed883@gmail.com](mailto:yayamohamed883@gmail.com)
