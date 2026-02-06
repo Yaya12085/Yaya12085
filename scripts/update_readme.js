@@ -35,14 +35,9 @@ const getMoodByDay = () => {
 const generateReadmeContent = () => {
   const todaysMood = getMoodByDay();
   return `
-## TS/JS Developer
-
 ![Profile Views](https://komarev.com/ghpvc/?username=yaya12085&color=brightgreen)
 
-> "Today's Mood: **${todaysMood}**" ⚡
-
-* 🌐 [yayamohamed.com](https://yayamohamed.com)
-* ✉️ [yayamohamed883@gmail.com](mailto:yayamohamed883@gmail.com)
+"Today's Mood: **${todaysMood}**"
 `;
 };
 
