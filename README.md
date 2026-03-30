@@ -1,4 +1,4 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yaya12085&color=brightgreen)
 
-> "Today's Mood: **content**"
+> "Today's Mood: **happy**"
